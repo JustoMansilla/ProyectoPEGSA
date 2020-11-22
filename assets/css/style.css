@@ -12563,3 +12563,13 @@ footer .copyright-social ul li:last-child {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+/* custom */
+
+@media only screen and (max-width: 991px) {
+  .font-blanco {
+    color: white;
+  }
+}

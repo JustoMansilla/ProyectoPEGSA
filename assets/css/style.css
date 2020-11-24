@@ -791,7 +791,7 @@ template {
 }
 
 .fw700 {
-  font-weight: 700 !important;
+  font-weight: 900 !important;
 }
 
 .ls0 {
@@ -1357,7 +1357,7 @@ body {
   background-color: #000;
   line-height: 1.2;
   color: rgba(255, 255, 255, 0.69);
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   font-weight: 500;
   margin: 0;
   text-rendering: optimizeLegibility;
@@ -1382,9 +1382,9 @@ h4,
 h5,
 h6 {
   color: #fff;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 1.2;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1450,7 +1450,7 @@ span, a {
 
 blockquote cite {
   font-style: normal;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
 }
 
 pre {
@@ -1844,7 +1844,7 @@ body > * {
 
 .item-descr h3 {
   font-size: 52px;
-  font-weight: 700;
+  font-weight: 900;
   text-transform: uppercase;
   position: relative;
   padding-top: 15px;
@@ -2382,7 +2382,7 @@ body > * {
   left: 50%;
   -webkit-transform: translate3d(-50%, -50%, 0);
   transform: translate3d(-50%, -50%, 0);
-  font-weight: 700;
+  font-weight: 900;
   letter-spacing: 8px;
   font-size: 24vw;
   color: rgba(54, 54, 53, 0.1);
@@ -3317,7 +3317,7 @@ body.hamburger-menu .header-top {
   position: relative;
   display: inline-block;
   margin-left: 10px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   font-weight: 600;
   top: -21px;
   color: #fff;
@@ -3870,7 +3870,7 @@ body.nav-active .header-top .header-container .menu-icon:hover .text-menu .text-
 .nav__list-item {
   position: relative;
   display: block;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   font-size: 40px;
   letter-spacing: 3px;
   font-weight: bold;
@@ -4586,14 +4586,14 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .next-project .project-title .title-text-header .title-text-header-inner {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   color: #fff;
 }
 
 .next-project .project-title .title-text-header .title-text-header-inner span {
   display: block;
   font-size: 65px;
-  font-weight: 700;
+  font-weight: 900;
   letter-spacing: -0.01em;
   line-height: 0.75em;
   margin: 30px 0;
@@ -4945,7 +4945,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 .intro-project .title-cover {
   position: absolute;
   width: 100%;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   font-size: 10vw;
   font-weight: 600;
   text-align: center;
@@ -4961,7 +4961,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 .intro-project h2 {
   font-size: 42px;
-  font-weight: 700;
+  font-weight: 900;
   letter-spacing: 4px;
 }
 
@@ -5596,7 +5596,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .box-gallery-vertical h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   margin-bottom: 30px;
   line-height: 1.6;
 }
@@ -5605,7 +5605,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   color: #fff;
   max-width: 270px;
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 28px;
   margin-bottom: 30px;
 }
@@ -6841,7 +6841,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   font-weight: 500;
   text-transform: uppercase;
   margin-bottom: 10px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   opacity: 0.9;
 }
 
@@ -7048,7 +7048,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   .client-see .inner .left .title {
     opacity: 1;
     font-size: 32px;
-    font-weight: 700;
+    font-weight: 900;
     padding-top: 60px;
   }
 }
@@ -7287,7 +7287,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 .our-news .item-new .image .title h3 {
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .our-news .item-new .content {
@@ -7342,7 +7342,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 .our-news .item-new .content .cta a {
   color: #fff;
   font-size: 22px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   font-weight: 600;
 }
 
@@ -8646,7 +8646,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 .fullscreen-slider .slider-item .content-inner .slider-header h1 {
   font-size: 65px;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 @media only screen and (max-width: 767px) {
@@ -8693,7 +8693,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 .fullscreen-slider .slider-item .content-inner .slider-descr h5 strong {
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .slider-header {
@@ -8712,7 +8712,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   width: -moz-max-content;
   width: max-content;
   font-size: 65px;
-  font-weight: 700;
+  font-weight: 900;
   text-align: center;
   color: transparent;
   -webkit-text-stroke: 1px #fff;
@@ -8993,7 +8993,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .headefr-fexid .project-title .title-text-header .title-text-header-inner {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   color: #fff;
 }
 
@@ -9003,7 +9003,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   margin: 30px 0;
   font-size: 65px;
   font-size: 65px;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 @media only screen and (max-width: 767px) {
@@ -9187,7 +9187,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   line-height: 1.2;
   letter-spacing: 2px;
   font-size: 65px;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 @media only screen and (max-width: 767px) {
@@ -9243,7 +9243,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   line-height: 1.2;
   margin-top: 0;
   font-size: 65px;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 @media only screen and (max-width: 767px) {
@@ -9349,7 +9349,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   max-width: 950px;
   line-height: 1.2;
   font-size: 42px;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 @media only screen and (max-width: 767px) {
@@ -9871,7 +9871,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .dsn-slider .nav-slider .swiper-slide .content p {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   font-size: 22px;
   opacity: 0.8;
 }
@@ -9990,7 +9990,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .dsn-slider-content .slide-content .slide-content-inner .title-text-header .title-text-header-inner {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   color: #fff;
   z-index: 0;
   font-size: 65px;
@@ -10316,7 +10316,7 @@ body.nav-all-work .view-all .view-all-container .icon .line-1 {
 
 .nav-work-box .list-main .work-item a .num small {
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 900;
   color: transparent;
   -webkit-text-stroke: 1px rgba(255, 255, 255, 0.2);
   letter-spacing: 2px;
@@ -10919,7 +10919,7 @@ body.dsn-show-work .dsn-all-work .list-main:nth-of-type(20) .work-item {
   font-weight: 500;
   text-transform: uppercase;
   margin-bottom: 10px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   opacity: 0.9;
 }
 
@@ -11063,7 +11063,7 @@ body.dsn-show-work .dsn-all-work .list-main:nth-of-type(20) .work-item {
   font-weight: 500;
   text-transform: uppercase;
   margin-bottom: 10px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   opacity: 0.9;
 }
 
@@ -11303,7 +11303,7 @@ body.dsn-show-work .dsn-all-work .list-main:nth-of-type(20) .work-item {
 
 .root-blog .post-list-item .post-list-item-content h3 {
   font-size: 42px;
-  font-weight: 700;
+  font-weight: 900;
   margin-bottom: 30px;
 }
 
@@ -11758,7 +11758,7 @@ body.dsn-show-work .dsn-all-work .list-main:nth-of-type(20) .work-item {
 }
 
 .box-info-contact h5 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
   margin-bottom: 30px;
   line-height: 1.6;
 }
@@ -12060,7 +12060,7 @@ label {
 .comments-post .comments-area .comment .comment-body .comment-text .comment-info .comment-name {
   float: left;
   margin: 0;
-  font-weight: 700;
+  font-weight: 900;
   font-size: 17px;
 }
 
@@ -12074,7 +12074,7 @@ label {
   -webkit-transition: color 670ms linear 417ms;
   -o-transition: color 670ms linear 417ms;
   transition: color 670ms linear 417ms;
-  font-weight: 700;
+  font-weight: 900;
   font-size: 15px;
   line-height: 20px;
   text-transform: uppercase;
@@ -12200,12 +12200,12 @@ footer p {
   color: rgba(194, 194, 194, 0.6);
   margin-bottom: 0;
   font-size: 11px;
-  font-weight: 700;
+  font-weight: 900;
   text-transform: uppercase;
   letter-spacing: 4px;
   line-height: 1.6;
   font-variant-numeric: proportional-nums;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Spartan', sans-serif;;
 }
 
 .v-light footer a, .v-light
@@ -12331,7 +12331,7 @@ footer .copyright-social ul li:last-child {
   position: relative;
   color: #fff;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 900;
   font-size: 15px;
   padding-bottom: 10px;
   margin-bottom: 25px;

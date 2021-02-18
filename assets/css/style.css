@@ -2876,7 +2876,7 @@ a:hover, a:active {
 .dsn-nav-bar.nav-bg > .header-top > .header-container, .dsn-nav-bar.nav-bg .site-header {
   padding-bottom: 15px;
   padding-top: 15px;
-  background-color: #000;
+  background-color: #f9f9f9;
 }
 
 .dsn-nav-bar.hide-nave > .header-top > .header-container, .dsn-nav-bar.hide-nave .site-header {

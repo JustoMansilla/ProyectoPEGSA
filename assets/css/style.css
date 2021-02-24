@@ -7316,7 +7316,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .our-news .item-new .content .background {
-  background: #e6e6e6;
+  background: #000000;
 }
 
 .our-news .item-new .content h5 {
@@ -7332,6 +7332,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 .our-news .item-new .content p {
   margin-top: 20px;
+  color: #ffffff;
 }
 
 .our-news .item-new .content .cta {
@@ -7347,7 +7348,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .our-news .item-new .content .cta a {
-  color: #000;
+  color: #ffffff;
 }
 
 .our-team {
